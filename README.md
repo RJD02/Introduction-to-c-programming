@@ -3,13 +3,14 @@
 This was my first NPTEL course.
 In this repo I have uploaded all assignment Questions and Solution Code.
 
-# If you are an expert, I would recommend to skip this repo, this is a begineer struggling with algorithms and data structures
+# If you are an expert:
+I would recommend to skip this repo, this is a begineer struggling with algorithms and data structures
 
 So now, if you are not an expert, Please take a look at my code, for I may not be a pro, I do have some knowledge.
 Since I ranked first this year in our branch(flex!) for no reason.
 
 For now I don't know how long it's gonna last, since everybody has an exception for COVID-19.
-# BUT I WILL KEEP THIS UPDATED.
+# Upadtes are provided..
 
 # UPDATE: 05/12/2020
 Today NPTEL conducted the unproctored exam, in which, the problem statement was given and we had to code it up in c.
@@ -36,4 +37,5 @@ If the course re-runs and by chance you enroll in it, then do tell me the questi
 
 # Well, gonna leave with that, enjoy the code!
 If you have any problem, then you know where to find me..
-# Goodluck my friend or brother or girlfriend(404! not found, YET) or kid, I don't think the last one will read this, but whatever..
+# Goodluck!
+Goodluck my friend or brother or girlfriend(404! not found, YET) or kid, I don't think the last one will read this, but whatever..
