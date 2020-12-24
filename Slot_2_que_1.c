@@ -19,7 +19,7 @@ int main()
    	name[i] = tolower1(name[i]);
    name[0] = name[0] - 32;
    name[count] = ':';
-  count++;
+   count++;
    name[count] = name[count] - 32;
    printf("%s\n", name);
    return 0;
