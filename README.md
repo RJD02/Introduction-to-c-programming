@@ -24,8 +24,9 @@ I do admit there were some tricky questions, but for some reason my friends got 
 # Yup I'm unfazed!
 For now only thing left is adding that #SLOT_1_QUESTION_3 and I think I will do a typical programmer move(forgetting I ever made this repo).
 
-# But if you have a solution, do message me(I mean you cannot know me and visit my repo).
-# I'm sure that if you see this, then I'm your friend.
+# You have Solution?
+If you have a solution, do message me(I mean you cannot know me and visit my repo).
+I'm sure that if you see this, then I'm your friend.
 
 # FEEDBACK:
 Course was good, as a begineer I found various things like file management, how to handle pointers more effectively and I think assignment questions were intresting.
