@@ -34,7 +34,7 @@ Also, live session they took was helpful, he talked everything(even about his ho
 Personally though, I solved the assignment questions in an hour everytime(We got assignment questions every 11:59 pm Sunday for 8 weeks, and I was over with them till 1:00 am of monday).
 Forum was good too, getting answer after a week when you had forgotten you had even asked a question and sometimes no answer at all was so motivating.
 They even bragged about their forum in the sessions and I think couple of students were high when asking questions.. I did found some mentally retarded ones too!
-If the course re-runs and by chance you enroll in it, then do tell me the questions, I would like to solve them with you, considering a potential friend(preferably a girl, but bros before hoes!).
+If the course re-runs and by chance you enroll in it, then do tell me the questions, I would like to solve them with you, considering a potential friend.
 
 # Well, gonna leave with that, enjoy the code!
 If you have any problem, then you know where to find me..
